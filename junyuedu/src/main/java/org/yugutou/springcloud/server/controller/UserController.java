@@ -11,6 +11,6 @@ public class UserController {
     public void sayHello(){
         System.out.println("hello World");
         User user = new User();
-        user.setName("c陈群");
+        user.setName("哈哈");//修改测试
     }
 }
